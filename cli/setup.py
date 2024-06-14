@@ -8,5 +8,5 @@ setup(
     license='MIT',
     description='ccfddl cli',
     author='siyuanluo',
-    author_email='luosiyuan2002@gmail.com'
+    author_email='3175211481@qq.com'
 )
