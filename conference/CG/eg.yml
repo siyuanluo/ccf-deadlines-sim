@@ -4,12 +4,12 @@
   rank: B
   dblp: eurographics
   confs:
-    - year: 2024
-      id: eg24
+    - year: 2025
+      id: eg25
       link: https://eg2024.cyens.org.cy/
       timeline:
-        - abstract_deadline: '2023-09-28 23:59:59'
-          deadline: '2023-10-05 23:59:59'
+        - abstract_deadline: '2024-09-28 23:59:59'
+          deadline: '2024-10-05 23:59:59'
       timezone: UTC
-      date: April 22-26, 2024
-      place: Limassol, Cyprus
+      date: April 22-26, 2025
+      place: London, UK

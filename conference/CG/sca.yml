@@ -1,15 +1,14 @@
 - title: SCA
-  description: ACM SIGGRAPH/Eurographics Symposium on Computer Animation
+  description: ACM SIGGRAPH/EUROGRAPHICS Symposium on Computer Animation
   sub: CG
   rank: B
   dblp: sca
   confs:
-    - year: 2024
-      id: sca24
-      link: https://computeranimation.org/
+    - year: 2023
+      id: sca23
+      link: http://computeranimation.org/
       timeline:
-        - deadline: '2024-04-29 23:59:59'
-          comment: 'Submission deadline (papers and posters)'
-      timezone: UTC
-      date: August 21-23, 2024
-      place: McGill University, Montreal, Canada
+        - deadline: '2023-04-12 23:59:59'
+      timezone: AoE
+      date: August 4-6, 2023
+      place: Los Angeles, CA, USA

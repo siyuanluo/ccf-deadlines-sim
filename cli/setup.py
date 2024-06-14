@@ -7,6 +7,6 @@ setup(
     packages=find_packages(),
     license='MIT',
     description='ccfddl cli',
-    author='0x4f5da2',
-    author_email='me@4f5da2.com'
+    author='siyuanluo',
+    author_email='luosiyuan2002@gmail.com'
 )
