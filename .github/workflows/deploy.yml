@@ -47,7 +47,7 @@ jobs:
       run: |
         yarn config set strict-ssl false 
         yarn install
-        yarn build
+        yarn build 
     - name: Config Git
       run: |
         git config --global user.email "3175211481@qq.com"
