@@ -10,10 +10,8 @@
 </template>
 
 <script>
-import GithubButton from './GithubButton'
 export default {
   name: 'Header',
-  components: {GithubButton},
   data() {
     return {
       showLatestConf: false,
