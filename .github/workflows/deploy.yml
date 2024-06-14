@@ -50,8 +50,8 @@ jobs:
         yarn build
     - name: Config Git
       run: |
-        git config --global user.email "me@4f5da2.com"
-        git config --global user.name "0x4f5da2"
+        git config --global user.email "luosiyuan2002@gmail.com"
+        git config --global user.name "siyuanluo"
     - name: Deploy
       run: |
         cd dist

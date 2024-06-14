@@ -10,7 +10,7 @@
       timeline:
           - abstract_deadline: '2024-11-02 23:59:59'
             deadline: '2024-11-09 23:59:59'
-            rebuttal_deadline: '2025-01-18 23:59:59'
+            comment: 'rebuttal deadline: 2025-01-18'
       timezone: UTC-8
       date: June 10-17, 2025
       place: Nashville, Tennessee
