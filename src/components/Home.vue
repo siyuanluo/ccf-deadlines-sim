@@ -135,7 +135,7 @@ export default {
       typeMap: new Map(),
       timeZone: '',
       utcMap: new Map(),
-      rankoptions: {'A': 'CCF A', 'B': 'CCF B', 'C': 'CCF C', 'N': 'Non-CCF'},
+      rankoptions: {'A': 'High', 'B': 'Medium', 'C': 'Low'},
       typesList: [],
       rankList: [],
       cachedLikes: [],

@@ -1,18 +1,10 @@
 <template>
   <section>
     <el-row>
-      <a href="/" class="title">CCF Rec. Conference Deadlines</a>
-      <github-button style="padding-left: 5px"></github-button>
-      <span v-if="showLatestConf" style="color:#fd3c95;font-weight: bold;">Latest: {{this.showStr}} !!!</span>
+      <a href="/" class="title">Graphics and Robotics Conferences Deadlines</a>
     </el-row>
     <el-row class="subtitle">
-      CCF Recommendation Conference Deadline Countdowns. To add/edit a conference, <a style="color: #666666" href="https://github.com/ccfddl/ccf-deadlines/pulls">send a pull request.</a>
-    </el-row>
-    <el-row class="subtitle">
-      Preview tabular demo: <a style="color: #666666" href="https://ccfddl.top/">https://ccfddl.top/</a>, or scan to try <a style="color: #666666" href="https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/applet_qrcode.jpg">wechat applet</a>.
-    </el-row>
-    <el-row class="subtitle">
-     *Disclaimer: The data provided by ccfddl is manually collected and for reference purposes only.
+      The Conferences are selected by Siyuan Luo and Ce Hao. For Deadline Tracking only.    
     </el-row>
   </section>
 </template>

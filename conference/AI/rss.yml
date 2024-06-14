@@ -1,0 +1,22 @@
+- title: RSS
+  description: Robotics Science and Systems
+  sub: AI
+  rank: A
+  dblp: rss
+  confs:
+    - year: 2024
+      id: rss24
+      link: https://roboticsconference.org/
+      timeline:
+        - deadline: '2024-02-02 23:59:00'
+      timezone: AoE
+      date: July 15-19, 2024
+      place: Delft, Netherlands
+    - year: 2025
+      id: rss25
+      link: https://roboticsconference.org/
+      timeline:
+        - deadline: '2025-02-02 23:59:00'
+      timezone: AoE
+      date: July 15-19, 2025
+      place: Edinburgh, England
